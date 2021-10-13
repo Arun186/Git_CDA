@@ -1,7 +1,1 @@
-new check
-new add modified
-modified again
-
-again commit
-
-final
+All done 5+10
